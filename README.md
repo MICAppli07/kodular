@@ -9,3 +9,5 @@ Le bouton Plus permet d’ajouter des tâches dans la liste « non commencée(s)
 Les tâches sont sauvegardées uniquement sur votre téléphone, pas de possibilité pour le moment de les enregistrer dans un service « cloud ».
 
 Sa conception est volontairement simple pour être la plus efficace et la plus adaptable.
+
+### Licence : CC BY-NC-SA | Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
