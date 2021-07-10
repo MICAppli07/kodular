@@ -1,7 +1,4 @@
-# kodular
-Dépôt des applications crées avec Kodular (Repository of applications created with Kodular)
-
-## Look At My Homework
+# Look At My Homework
 Cette application se présente sous la forme de deux listes de tâches. La première regroupe les tâches non commencées et la seconde celles qui le sont.
 Ainsi, vous pouvez contrôler les devoirs qui restent à faire et voir en même temps ceux à terminer.
 
